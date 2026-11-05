@@ -23,7 +23,7 @@ dependencies {
 
     // Gson for config
     implementation 'com.google.code.gson:gson:2.10.1'
-    include 'com.google.code.gson:gson:2.10.1'
+    // ĐÃ XÓA DÒNG include 'com.google.code.gson:gson:2.10.1' Ở ĐÂY
 }
 
 processResources {
